@@ -15,6 +15,7 @@ RUN conda install --yes --freeze-installed \
     cytoolz \
     dask==2.0.0 \
     nomkl \
+    zarr \
     numpy==1.16.2 \
     pandas==0.24.2 \
     ipywidgets \
